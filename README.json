@@ -1,39 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Intrinsic Decomposition (non-DL)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Intrinsic Decomposition (DL)"
-    },
-    {
-      "description": "L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation",
-      "items": [],
-      "title": "Inverse Rendering (non-DL)"
-    },
-    {
-      "description": "L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation",
-      "items": [],
-      "title": "Inverse Rendering (DL)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Portrait Relighting (DL)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dataset"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T20:41:49.059Z",
+    "last_updated": "2026-08-19T12:08:38.917Z",
     "original_repository": "tkuri/Awesome-InverseRendering",
+    "original_repository_id": 317085344,
     "original_repository_sha": "56c2ba5742949c96e8e8f7a2d60d1297442eb780",
     "enhanced_repository": "enhansome/enhansome-Awesome-InverseRendering",
     "enhanced_repository_description": null,
