@@ -123,7 +123,7 @@ L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
 | 2017 |   CVPR   |                  [Shading Annotations in the Wild](http://opensurfaces.cs.cornell.edu/publications/saw/)                 |                                               [Dataset](http://opensurfaces.cs.cornell.edu/publications/saw/)                                               |
 | 2019 |   ICCV   |            [A Dataset of Multi-Illumination Images in the Wild](https://projects.csail.mit.edu/illumination/)            | [Code](https://github.com/lmurmann/multi_illumination) ⭐ 58 \| 🐛 5 \| 🌐 Python \| 📅 2020-01-17 / [Dataset](https://projects.csail.mit.edu/illumination/) |
 | 2021 |   CVPR   |        [OpenRooms: An Open Framework for Photorealistic Indoor Scene Datasets](https://ucsd-openrooms.github.io/)        |                                                         [Dataset](https://ucsd-openrooms.github.io/)                                                        |
-| 2021 |   ICCV   | [Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding](https://arxiv.org/abs/2011.02523) |                                [Dataset](https://github.com/apple/ml-hypersim) ⭐ 2,038 \| 🐛 0 \| 🌐 Python \| 📅 2026-01-09                                |
+| 2021 |   ICCV   | [Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding](https://arxiv.org/abs/2011.02523) |                                [Dataset](https://github.com/apple/ml-hypersim) ⭐ 2,039 \| 🐛 0 \| 🌐 Python \| 📅 2026-01-09                                |
 
 ***
 
