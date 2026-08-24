@@ -1,7 +1,371 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "NeurIPS Self-Supervised Intrinsic Image Decomposition Code / Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110044207,
+            "language": "Lua",
+            "last_commit": "2021-09-30T06:31:55Z",
+            "owner": "jannerm",
+            "repo": "intrinsics-network",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "CVPR Intrinsic Image Transformation via Scale Space Decomposition Code / Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163328669,
+            "language": "Python",
+            "last_commit": "2019-01-03T08:19:34Z",
+            "owner": "liygcheng",
+            "repo": "PyrResNet",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "CVPR Revisiting Deep Intrinsic Image Decompositions Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127178680,
+            "language": "Lua",
+            "last_commit": "2018-11-10T14:57:40Z",
+            "owner": "fqnchina",
+            "repo": "IntrinsicImage",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "CVPR Learning Intrinsic Image Decomposition from Watching the World Code / Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128239316,
+            "language": "OpenEdge ABL",
+            "last_commit": "2021-05-28T05:05:03Z",
+            "owner": "zhengqili",
+            "repo": "unsupervised-learning-intrinsic-images",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "Pacific Graphics Unsupervised Deep Single-Image Intrinsic Decomposition using Illumination-Varying Image Sequences Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151559136,
+            "language": "Python",
+            "last_commit": "2018-10-04T11:15:08Z",
+            "owner": "kvanhoey",
+            "repo": "UnsupervisedIntrinsicDecomposition",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "ECCV CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rendering Code / Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149999827,
+            "language": "Python",
+            "last_commit": "2021-04-05T01:01:33Z",
+            "owner": "zhengqili",
+            "repo": "CGIntrinsics",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR InverseRenderNet: Learning single image inverse rendering Code / Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 157929893,
+            "language": "Python",
+            "last_commit": "2022-08-06T13:14:29Z",
+            "owner": "YeeU",
+            "repo": "InverseRenderNet",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR Learning to Separate Multiple Illuminants in a Single Image Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201824053,
+            "language": "Python",
+            "last_commit": "2019-08-12T16:03:07Z",
+            "owner": "huizhuo1987",
+            "repo": "DeepLightSep",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "CVPR PIE-Net: Photometric Invariant Edge Guided Network for Intrinsic Image Decomposition Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 428844861,
+            "language": "Python",
+            "last_commit": "2022-10-24T23:04:43Z",
+            "owner": "Morpheus3000",
+            "repo": "PIE-Net",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Intrinsic Decomposition (DL)"
+    },
+    {
+      "description": "L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "SIGGRAPH Modeling Surface Appearance from a Single Photograph using Self-augmented Convolutional Neural Networks Code ✓ ✓",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95416243,
+            "language": "Python",
+            "last_commit": "2018-10-23T08:14:37Z",
+            "owner": "msraig",
+            "repo": "self-augmented-net",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "3DV Learning to Estimate Indoor Lighting from 3D Objects Code & Dataset ✓",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 146913221,
+            "language": "Python",
+            "last_commit": "2024-02-19T16:17:28Z",
+            "owner": "weberhen",
+            "repo": "learning_indoor_lighting",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "SIGGRAPH ASIA Learning to Reconstruct Shape and Spatially-Varying Reflectance from a Single Image Code / Dataset ✓ ✓",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196642596,
+            "language": "Python",
+            "last_commit": "2020-08-14T23:56:30Z",
+            "owner": "lzqsd",
+            "repo": "SingleImageShapeAndSVBRDF",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "CVPR Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination Code / Dataset ✓",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 260846110,
+            "language": "Python",
+            "last_commit": "2020-05-03T07:00:35Z",
+            "owner": "pratulsrinivasan",
+            "repo": "lighthouse",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "CVPR Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image Code / Dataset ✓ ✓ ✓",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272766490,
+            "language": "Python",
+            "last_commit": "2023-04-09T00:09:09Z",
+            "owner": "lzqsd",
+            "repo": "InverseRenderingOfIndoorScene",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "ECCV Single-Shot Neural Relighting and SVBRDF Estimation Code / Dataset ✓ ✓",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279155049,
+            "language": "Python",
+            "last_commit": "2025-04-20T03:02:39Z",
+            "owner": "ssangx",
+            "repo": "NeuralRelighting",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "SIGGRAPH ASIA MaterialGAN: Reflectance Capture using a Generative SVBRDF Model Code ✓ ✓",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 306761730,
+            "language": "Python",
+            "last_commit": "2024-06-21T23:17:57Z",
+            "owner": "tflsguoyu",
+            "repo": "materialgan",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPR PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Material Editing and Relighting Code ✓ ✓ ✓",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378691318,
+            "language": "Python",
+            "last_commit": "2022-08-12T18:13:07Z",
+            "owner": "Kai-46",
+            "repo": "PhySG",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPR Shape and Material Capture at Home Code & Dataset ✓ ✓",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 353760567,
+            "language": "Python",
+            "last_commit": "2021-07-06T19:31:39Z",
+            "owner": "dlichy",
+            "repo": "ShapeAndMaterial",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "ICCV SurfaceNet: Adversarial SVBRDF Estimation from a Single Image Code ✓ ✓",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 388770310,
+            "language": "Python",
+            "last_commit": "2023-11-03T09:11:29Z",
+            "owner": "perceivelab",
+            "repo": "surfacenet",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "SIGGRAPH ASIA Generative Modelling of BRDF Textures from Flash Images Code ✓ ✓",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 399791180,
+            "language": "Python",
+            "last_commit": "2021-11-23T10:54:13Z",
+            "owner": "henzler",
+            "repo": "neuralmaterial",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "CVPR IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes Code ✓ ✓ ✓",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 504285973,
+            "language": null,
+            "last_commit": "2022-06-16T19:45:53Z",
+            "owner": "ViLab-UCSD",
+            "repo": "IRISformer",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Inverse Rendering (DL)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "ICCV A Dataset of Multi-Illumination Images in the Wild Code / Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215884435,
+            "language": "Python",
+            "last_commit": "2020-01-17T22:03:49Z",
+            "owner": "lmurmann",
+            "repo": "multi_illumination",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "ICCV Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313435134,
+            "language": "Python",
+            "last_commit": "2026-01-09T22:34:45Z",
+            "owner": "apple",
+            "repo": "ml-hypersim",
+            "stars": 2040
+          }
+        }
+      ],
+      "title": "Dataset"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T20:40:08.712Z",
+    "last_updated": "2026-08-24T14:30:01.379Z",
     "original_repository": "tkuri/Awesome-InverseRendering",
     "original_repository_id": 317085344,
     "original_repository_sha": "56c2ba5742949c96e8e8f7a2d60d1297442eb780",
