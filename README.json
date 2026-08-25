@@ -357,7 +357,7 @@
             "last_commit": "2026-01-09T22:34:45Z",
             "owner": "apple",
             "repo": "ml-hypersim",
-            "stars": 2040
+            "stars": 2041
           }
         }
       ],
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:25:30.029Z",
+    "last_updated": "2026-08-25T20:46:58.024Z",
     "original_repository": "tkuri/Awesome-InverseRendering",
     "original_repository_id": 317085344,
     "original_repository_sha": "56c2ba5742949c96e8e8f7a2d60d1297442eb780",
