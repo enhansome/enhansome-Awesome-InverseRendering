@@ -365,9 +365,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:34:00.054Z",
-    "original_repository": "tkuri/Awesome-InverseRendering",
-    "original_repository_id": 317085344,
+    "last_updated": "2026-08-27T11:22:08.771Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 317085344,
+      "language": null,
+      "last_commit": "2025-04-11T07:16:16Z",
+      "owner": "tkuri",
+      "repo": "Awesome-InverseRendering",
+      "stars": 235
+    },
     "original_repository_sha": "56c2ba5742949c96e8e8f7a2d60d1297442eb780",
     "enhanced_repository": "enhansome/enhansome-Awesome-InverseRendering",
     "enhanced_repository_description": null,
