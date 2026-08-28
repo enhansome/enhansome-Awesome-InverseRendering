@@ -16,7 +16,8 @@
             "owner": "jannerm",
             "repo": "intrinsics-network",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "liygcheng",
             "repo": "PyrResNet",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "fqnchina",
             "repo": "IntrinsicImage",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "zhengqili",
             "repo": "unsupervised-learning-intrinsic-images",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "kvanhoey",
             "repo": "UnsupervisedIntrinsicDecomposition",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "zhengqili",
             "repo": "CGIntrinsics",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "YeeU",
             "repo": "InverseRenderNet",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "huizhuo1987",
             "repo": "DeepLightSep",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "Morpheus3000",
             "repo": "PIE-Net",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         }
       ],
       "title": "Intrinsic Decomposition (DL)"
@@ -157,7 +166,8 @@
             "owner": "msraig",
             "repo": "self-augmented-net",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "weberhen",
             "repo": "learning_indoor_lighting",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "lzqsd",
             "repo": "SingleImageShapeAndSVBRDF",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "pratulsrinivasan",
             "repo": "lighthouse",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "lzqsd",
             "repo": "InverseRenderingOfIndoorScene",
             "stars": 319
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "ssangx",
             "repo": "NeuralRelighting",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "tflsguoyu",
             "repo": "materialgan",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "Kai-46",
             "repo": "PhySG",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "dlichy",
             "repo": "ShapeAndMaterial",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "perceivelab",
             "repo": "surfacenet",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "henzler",
             "repo": "neuralmaterial",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "ViLab-UCSD",
             "repo": "IRISformer",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         }
       ],
       "title": "Inverse Rendering (DL)"
@@ -343,7 +364,8 @@
             "owner": "lmurmann",
             "repo": "multi_illumination",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         },
         {
           "node_type": "item",
@@ -358,14 +380,15 @@
             "owner": "apple",
             "repo": "ml-hypersim",
             "stars": 2043
-          }
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
         }
       ],
       "title": "Dataset"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:22:08.771Z",
+    "last_updated": "2026-08-28T04:22:34.818Z",
     "original_repository_info": {
       "archived": false,
       "id": 317085344,
