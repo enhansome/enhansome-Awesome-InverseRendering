@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper \"Self-Supervised Intrinsic Image Decomposition\"",
+            "homepage": "http://rin.csail.mit.edu/",
             "id": 110044207,
             "language": "Lua",
+            "license": null,
             "last_commit": "2021-09-30T06:31:55Z",
+            "open_issues": 4,
             "owner": "jannerm",
             "repo": "intrinsics-network",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For paper \"Intrinsic Image Transformation Via Scale Space Decomposition\"",
+            "homepage": null,
             "id": 163328669,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2019-01-03T08:19:34Z",
+            "open_issues": 0,
             "owner": "liygcheng",
             "repo": "PyrResNet",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation codes of CVPR 2018 Oral paper \"Revisiting Deep Intrinsic Image Decompositions\"",
+            "homepage": null,
             "id": 127178680,
             "language": "Lua",
+            "license": null,
             "last_commit": "2018-11-10T14:57:40Z",
+            "open_issues": 5,
             "owner": "fqnchina",
             "repo": "IntrinsicImage",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of the intrinsic image decomposition algorithm described in \"Learning Intrinsic Image Decomposition from Watching the World, Z. Li and N. Snavely, CVPR 2018\"",
+            "homepage": null,
             "id": 128239316,
             "language": "OpenEdge ABL",
+            "license": "MIT",
             "last_commit": "2021-05-28T05:05:03Z",
+            "open_issues": 5,
             "owner": "zhengqili",
             "repo": "unsupervised-learning-intrinsic-images",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -74,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for executing the Single-Image Intrinsic Decomposition algorithm presented in the paper:  Unsupervised Deep Single-Image Intrinsic Decomposition using Illumination-Varying Image Sequences",
+            "homepage": null,
             "id": 151559136,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-10-04T11:15:08Z",
+            "open_issues": 2,
             "owner": "kvanhoey",
             "repo": "UnsupervisedIntrinsicDecomposition",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -90,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the CGIntrinsics implementation described in the paper \"CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rendering, Z. Li and N. Snavely, ECCV 2018\". ",
+            "homepage": null,
             "id": 149999827,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-04-05T01:01:33Z",
+            "open_issues": 8,
             "owner": "zhengqili",
             "repo": "CGIntrinsics",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -106,12 +136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "InverseRenderNet: Learning single image inverse rendering, CVPR 2019.",
+            "homepage": null,
             "id": 157929893,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-06T13:14:29Z",
+            "open_issues": 6,
             "owner": "YeeU",
             "repo": "InverseRenderNet",
-            "stars": 166
+            "stars": 166,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -122,12 +157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 201824053,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-08-12T16:03:07Z",
+            "open_issues": 2,
             "owner": "huizhuo1987",
             "repo": "DeepLightSep",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -138,12 +178,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official model and network release for my CVPR2022 paper.",
+            "homepage": null,
             "id": 428844861,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-24T23:04:43Z",
+            "open_issues": 5,
             "owner": "Morpheus3000",
             "repo": "PIE-Net",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "computer-vision",
+              "cvpr2022",
+              "deep-learning",
+              "intrinsic-image-decomposition",
+              "physics-based-vision"
+            ]
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         }
@@ -160,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for \"Modeling Surface Appearance from a Single Photograph using Self-augmented Convolutional Neural Networks\"",
+            "homepage": null,
             "id": 95416243,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-10-23T08:14:37Z",
+            "open_issues": 0,
             "owner": "msraig",
             "repo": "self-augmented-net",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -176,12 +232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning to Estimate Indoor Lighting from 3D Objects. 3DV 2018",
+            "homepage": null,
             "id": 146913221,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-19T16:17:28Z",
+            "open_issues": 0,
             "owner": "weberhen",
             "repo": "learning_indoor_lighting",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -192,12 +253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 196642596,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-08-14T23:56:30Z",
+            "open_issues": 3,
             "owner": "lzqsd",
             "repo": "SingleImageShapeAndSVBRDF",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -208,12 +274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code release for CVPR 2020 Paper Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination https://people.eecs.berkeley.edu/~pratul/lighthouse/",
+            "homepage": null,
             "id": 260846110,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-05-03T07:00:35Z",
+            "open_issues": 2,
             "owner": "pratulsrinivasan",
             "repo": "lighthouse",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -224,12 +295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 272766490,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-09T00:09:09Z",
+            "open_issues": 11,
             "owner": "lzqsd",
             "repo": "InverseRenderingOfIndoorScene",
-            "stars": 319
+            "stars": 319,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -240,12 +316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://cseweb.ucsd.edu/~viscomp/projects/ECCV20NeuralRelighting/",
             "id": 279155049,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-20T03:02:39Z",
+            "open_issues": 8,
             "owner": "ssangx",
             "repo": "NeuralRelighting",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -256,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 306761730,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-21T23:17:57Z",
+            "open_issues": 0,
             "owner": "tflsguoyu",
             "repo": "materialgan",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -272,12 +358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Relighting and Material Editing",
+            "homepage": null,
             "id": 378691318,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-12T18:13:07Z",
+            "open_issues": 9,
             "owner": "Kai-46",
             "repo": "PhySG",
-            "stars": 240
+            "stars": 240,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -288,12 +379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 353760567,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-07-06T19:31:39Z",
+            "open_issues": 2,
             "owner": "dlichy",
             "repo": "ShapeAndMaterial",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -304,12 +400,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official PyTorch implementation for paper \"SurfaceNet: Adversarial SVBRDF Estimation from a Single Image\"",
+            "homepage": "https://perceivelab.github.io/surfacenet/",
             "id": 388770310,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-03T09:11:29Z",
+            "open_issues": 5,
             "owner": "perceivelab",
             "repo": "surfacenet",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "deep-learning",
+              "gan",
+              "generative-adversarial-network",
+              "materials",
+              "svbrdf",
+              "textures"
+            ]
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -320,12 +428,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative Modelling of BRDF Textures from Flash Images [SIGGRAPH Asia, 2021]",
+            "homepage": null,
             "id": 399791180,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-23T10:54:13Z",
+            "open_issues": 4,
             "owner": "henzler",
             "repo": "neuralmaterial",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -336,12 +449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 504285973,
             "language": null,
+            "license": null,
             "last_commit": "2022-06-16T19:45:53Z",
+            "open_issues": 1,
             "owner": "ViLab-UCSD",
             "repo": "IRISformer",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         }
@@ -358,12 +476,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 215884435,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-01-17T22:03:49Z",
+            "open_issues": 5,
             "owner": "lmurmann",
             "repo": "multi_illumination",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         },
@@ -374,12 +497,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding",
+            "homepage": null,
             "id": 313435134,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-09T22:34:45Z",
+            "open_issues": 0,
             "owner": "apple",
             "repo": "ml-hypersim",
-            "stars": 2043
+            "stars": 2043,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
         }
@@ -388,15 +516,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:49:17.557Z",
+    "last_updated": "2026-08-29T04:48:24.764Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
+      "homepage": null,
       "id": 317085344,
       "language": null,
+      "license": null,
       "last_commit": "2025-04-11T07:16:16Z",
+      "open_issues": 0,
       "owner": "tkuri",
       "repo": "Awesome-InverseRendering",
-      "stars": 235
+      "stars": 235,
+      "topics": [
+        "awesome-list",
+        "awesome-lists",
+        "dataset",
+        "intrinsic-decomposition",
+        "inverse-rendering",
+        "paper",
+        "papers"
+      ]
     },
     "original_repository_sha": "56c2ba5742949c96e8e8f7a2d60d1297442eb780",
     "enhanced_repository": "enhansome/enhansome-Awesome-InverseRendering",
