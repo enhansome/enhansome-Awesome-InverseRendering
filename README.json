@@ -506,7 +506,7 @@
             "open_issues": 0,
             "owner": "apple",
             "repo": "ml-hypersim",
-            "stars": 2045,
+            "stars": 2046,
             "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:21:31.315Z",
+    "last_updated": "2026-09-05T22:03:33.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
