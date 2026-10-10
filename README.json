@@ -280,7 +280,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2020-05-03T07:00:35Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "pratulsrinivasan",
             "repo": "lighthouse",
             "stars": 85,
@@ -506,7 +506,7 @@
             "open_issues": 0,
             "owner": "apple-aiml-research",
             "repo": "ml-hypersim",
-            "stars": 2059,
+            "stars": 2060,
             "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T00:23:29.674Z",
+    "last_updated": "2026-10-10T00:02:57.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
