@@ -5,6 +5,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "tnarihi/direct-intrinsics",
+          "description": "ICCV Direct Intrinsics: Learning Albedo-Shading Decomposition by Convolutional Regression",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A project website of Direct Intrinsics",
+            "homepage": null,
+            "id": 44478142,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2016-01-06T10:25:06Z",
+            "open_issues": 2,
+            "owner": "tnarihi",
+            "repo": "direct-intrinsics",
+            "stars": 45,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T23:34:24.323Z"
+        },
+        {
+          "node_type": "item",
           "title": "jannerm/intrinsics-network",
           "description": "/ Dataset NeurIPS Self-Supervised Intrinsic Image Decomposition",
           "children": [],
@@ -20,6 +41,27 @@
             "owner": "jannerm",
             "repo": "intrinsics-network",
             "stars": 144,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
+        },
+        {
+          "node_type": "item",
+          "title": "zhengqili/CGIntrinsics",
+          "description": "/ Dataset ECCV CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rendering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is the CGIntrinsics implementation described in the paper \"CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rendering, Z. Li and N. Snavely, ECCV 2018\". ",
+            "homepage": null,
+            "id": 149999827,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2021-04-05T01:01:33Z",
+            "open_issues": 8,
+            "owner": "zhengqili",
+            "repo": "CGIntrinsics",
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
@@ -47,27 +89,6 @@
         },
         {
           "node_type": "item",
-          "title": "fqnchina/IntrinsicImage",
-          "description": "CVPR Revisiting Deep Intrinsic Image Decompositions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Implementation codes of CVPR 2018 Oral paper \"Revisiting Deep Intrinsic Image Decompositions\"",
-            "homepage": null,
-            "id": 127178680,
-            "language": "Lua",
-            "license": null,
-            "last_commit": "2018-11-10T14:57:40Z",
-            "open_issues": 5,
-            "owner": "fqnchina",
-            "repo": "IntrinsicImage",
-            "stars": 65,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:22:34.818Z"
-        },
-        {
-          "node_type": "item",
           "title": "zhengqili/unsupervised-learning-intrinsic-images",
           "description": "/ Dataset CVPR Learning Intrinsic Image Decomposition from Watching the World",
           "children": [],
@@ -89,6 +110,27 @@
         },
         {
           "node_type": "item",
+          "title": "fqnchina/IntrinsicImage",
+          "description": "CVPR Revisiting Deep Intrinsic Image Decompositions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Implementation codes of CVPR 2018 Oral paper \"Revisiting Deep Intrinsic Image Decompositions\"",
+            "homepage": null,
+            "id": 127178680,
+            "language": "Lua",
+            "license": null,
+            "last_commit": "2018-11-10T14:57:40Z",
+            "open_issues": 5,
+            "owner": "fqnchina",
+            "repo": "IntrinsicImage",
+            "stars": 65,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T04:22:34.818Z"
+        },
+        {
+          "node_type": "item",
           "title": "kvanhoey/UnsupervisedIntrinsicDecomposition",
           "description": "Pacific Graphics Unsupervised Deep Single-Image Intrinsic Decomposition using Illumination-Varying Image Sequences",
           "children": [],
@@ -104,27 +146,6 @@
             "owner": "kvanhoey",
             "repo": "UnsupervisedIntrinsicDecomposition",
             "stars": 35,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:22:34.818Z"
-        },
-        {
-          "node_type": "item",
-          "title": "zhengqili/CGIntrinsics",
-          "description": "/ Dataset ECCV CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rendering",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This is the CGIntrinsics implementation described in the paper \"CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rendering, Z. Li and N. Snavely, ECCV 2018\". ",
-            "homepage": null,
-            "id": 149999827,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2021-04-05T01:01:33Z",
-            "open_issues": 8,
-            "owner": "zhengqili",
-            "repo": "CGIntrinsics",
-            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
@@ -173,6 +194,48 @@
         },
         {
           "node_type": "item",
+          "title": "DreamtaleCore/USI3D",
+          "description": "CVPR Unsupervised Learning for Intrinsic Image Decomposition from a Single Image",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Unsupervised Learning for Intrinsic Image Decomposition from a Single Image",
+            "homepage": "https://arxiv.org/abs/1911.09930",
+            "id": 242863344,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2021-10-12T23:02:38Z",
+            "open_issues": 10,
+            "owner": "DreamtaleCore",
+            "repo": "USI3D",
+            "stars": 100,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T23:34:24.323Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Morpheus3000/ShadingNet",
+          "description": "IJCV ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official code release for our IJCV paper titled, \"ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition\".",
+            "homepage": null,
+            "id": 557737753,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2024-10-29T13:25:43Z",
+            "open_issues": 2,
+            "owner": "Morpheus3000",
+            "repo": "ShadingNet",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T23:34:24.323Z"
+        },
+        {
+          "node_type": "item",
           "title": "Morpheus3000/PIE-Net",
           "description": "CVPR PIE-Net: Photometric Invariant Edge Guided Network for Intrinsic Image Decomposition",
           "children": [],
@@ -197,274 +260,1151 @@
             ]
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
+        },
+        {
+          "node_type": "item",
+          "title": "compphoto/Intrinsic",
+          "description": "/ Data TOG Intrinsic Image Decomposition via Ordinal Shading",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Repo for the papers \"Intrinsic Image Decomposition via Ordinal Shading\" (TOG 2023) and \"Colorful Diffuse Intrinsic Image Decomposition in the Wild\" (TOG 2024)",
+            "homepage": "https://yaksoy.github.io/intrinsic",
+            "id": 718289037,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-04-03T01:24:31Z",
+            "open_issues": 0,
+            "owner": "compphoto",
+            "repo": "Intrinsic",
+            "stars": 388,
+            "topics": [
+              "computer-graphics",
+              "computer-vision",
+              "image-processing",
+              "intrinsic-decomposition",
+              "inverse-rendering",
+              "machine-learning",
+              "multi-illumination"
+            ]
+          },
+          "first_seen": "2026-10-10T23:34:24.323Z"
+        },
+        {
+          "node_type": "item",
+          "title": "compphoto/Intrinsic",
+          "description": "TOG / SIGGRAPH Asia Colorful Diffuse Intrinsic Image Decomposition in the Wild",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Repo for the papers \"Intrinsic Image Decomposition via Ordinal Shading\" (TOG 2023) and \"Colorful Diffuse Intrinsic Image Decomposition in the Wild\" (TOG 2024)",
+            "homepage": "https://yaksoy.github.io/intrinsic",
+            "id": 718289037,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-04-03T01:24:31Z",
+            "open_issues": 0,
+            "owner": "compphoto",
+            "repo": "Intrinsic",
+            "stars": 388,
+            "topics": [
+              "computer-graphics",
+              "computer-vision",
+              "image-processing",
+              "intrinsic-decomposition",
+              "inverse-rendering",
+              "machine-learning",
+              "multi-illumination"
+            ]
+          },
+          "first_seen": "2026-10-10T23:34:24.323Z"
+        },
+        {
+          "node_type": "item",
+          "title": "JundanLuo/IntrinsicDiffusion",
+          "description": "SIGGRAPH IntrinsicDiffusion: Joint Intrinsic Layers from Latent Diffusion Models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official release of IntrinsicDiffusion.",
+            "homepage": null,
+            "id": 1030827845,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-03-09T05:05:32Z",
+            "open_issues": 1,
+            "owner": "JundanLuo",
+            "repo": "IntrinsicDiffusion",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T23:34:24.323Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Code & Data",
+          "description": "ICLR IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official repo for \"IDArb: Intrinsic Decomposition for arbitrary number of input views and illuminations\"",
+            "homepage": "https://lizb6626.github.io/IDArb/",
+            "id": 902739107,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-07-09T02:26:26Z",
+            "open_issues": 8,
+            "owner": "Lizb6626",
+            "repo": "IDArb",
+            "stars": 105,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T23:34:24.323Z"
         }
       ],
       "title": "Intrinsic Decomposition (DL)"
     },
     {
-      "description": "L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation",
+      "description": "L: Lighting Estimation, G: Geometry Estimation, M: Material Estimation. In the legacy tables, a check indicates an estimated quantity; an empty cell does not assert that the quantity is absent from the pipeline. New entries describe the capture setting directly.",
       "items": [
         {
-          "node_type": "item",
-          "title": "msraig/self-augmented-net",
-          "description": "SIGGRAPH Modeling Surface Appearance from a Single Photograph using Self-augmented Convolutional Neural Networks  ✓ ✓",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Source code for \"Modeling Surface Appearance from a Single Photograph using Self-augmented Convolutional Neural Networks\"",
-            "homepage": null,
-            "id": 95416243,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2018-10-23T08:14:37Z",
-            "open_issues": 0,
-            "owner": "msraig",
-            "repo": "self-augmented-net",
-            "stars": 67,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:22:34.818Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lzhnb/GS-IR",
+              "description": "CVPR GS-IR: 3D Gaussian Splatting for Inverse Rendering Explicit Gaussians; material, lighting and occlusion baking",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 722969720,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-07-16T13:24:10Z",
+                "open_issues": 23,
+                "owner": "lzhnb",
+                "repo": "GS-IR",
+                "stars": 452,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "NK-CS-ZZL/DiscretizedSDF",
+              "description": "ICCV Gaussian Splatting with Discretized SDF for Relightable Assets Explicit sampled SDF and Gaussian material parameters",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Release of ICCV 2025 paper -- DiscretizedSDF",
+                "homepage": null,
+                "id": 1023606749,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2025-08-25T19:17:29Z",
+                "open_issues": 0,
+                "owner": "NK-CS-ZZL",
+                "repo": "DiscretizedSDF",
+                "stars": 110,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "fudan-zvg/IRGS",
+              "description": "CVPR IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing 2D Gaussian ray tracing; inter-reflections",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2025] IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing",
+                "homepage": "https://fudan-zvg.github.io/IRGS/",
+                "id": 906163508,
+                "language": "HTML",
+                "license": "NOASSERTION",
+                "last_commit": "2025-07-15T05:03:39Z",
+                "open_issues": 6,
+                "owner": "fudan-zvg",
+                "repo": "IRGS",
+                "stars": 172,
+                "topics": [
+                  "gaussian-raytracing",
+                  "gaussian-splatting",
+                  "inverse-rendering"
+                ]
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "jingzhi/ReCap",
+              "description": "CVPR ReCap: Better Gaussian Relighting with Cross-Environment Captures Gaussian relighting with cross-environment captures",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official implementation of ReCap: Better Gaussian Relighting With Cross-Environment Captures",
+                "homepage": "https://jingzhi.github.io/ReCap/",
+                "id": 901262345,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2025-06-15T21:11:55Z",
+                "open_issues": 3,
+                "owner": "jingzhi",
+                "repo": "ReCap",
+                "stars": 22,
+                "topics": [
+                  "3dgs",
+                  "cvpr2025",
+                  "relighting"
+                ]
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "learner-shx/SVG-IR",
+              "description": "CVPR SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering Spatially varying Gaussian parameters; indirect illumination",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official implement of SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering.",
+                "homepage": null,
+                "id": 951934329,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-02-20T07:48:37Z",
+                "open_issues": 3,
+                "owner": "learner-shx",
+                "repo": "SVG-IR",
+                "stars": 44,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Explicit Gaussian inverse rendering"
+        }
+      ],
+      "title": "Inverse Rendering (non-DL)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "msraig/self-augmented-net",
+              "description": "SIGGRAPH Modeling Surface Appearance from a Single Photograph using Self-augmented Convolutional Neural Networks  ✓ ✓",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Source code for \"Modeling Surface Appearance from a Single Photograph using Self-augmented Convolutional Neural Networks\"",
+                "homepage": null,
+                "id": 95416243,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2018-10-23T08:14:37Z",
+                "open_issues": 0,
+                "owner": "msraig",
+                "repo": "self-augmented-net",
+                "stars": 67,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:22:34.818Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Code & Dataset",
+              "description": "3DV Learning to Estimate Indoor Lighting from 3D Objects ✓",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Learning to Estimate Indoor Lighting from 3D Objects. 3DV 2018",
+                "homepage": null,
+                "id": 146913221,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2024-02-19T16:17:28Z",
+                "open_issues": 0,
+                "owner": "weberhen",
+                "repo": "learning_indoor_lighting",
+                "stars": 48,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:22:34.818Z"
+            },
+            {
+              "node_type": "item",
+              "title": "lzqsd/SingleImageShapeAndSVBRDF",
+              "description": "/ Dataset SIGGRAPH ASIA Learning to Reconstruct Shape and Spatially-Varying Reflectance from a Single Image  ✓ ✓",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 196642596,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2020-08-14T23:56:30Z",
+                "open_issues": 3,
+                "owner": "lzqsd",
+                "repo": "SingleImageShapeAndSVBRDF",
+                "stars": 81,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:22:34.818Z"
+            },
+            {
+              "node_type": "item",
+              "title": "lzqsd/InverseRenderingOfIndoorScene",
+              "description": "/ Dataset CVPR Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image ✓ ✓ ✓",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 272766490,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-04-09T00:09:09Z",
+                "open_issues": 11,
+                "owner": "lzqsd",
+                "repo": "InverseRenderingOfIndoorScene",
+                "stars": 319,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:22:34.818Z"
+            },
+            {
+              "node_type": "item",
+              "title": "pratulsrinivasan/lighthouse",
+              "description": "/ Dataset CVPR Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination ✓",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "code release for CVPR 2020 Paper Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination https://people.eecs.berkeley.edu/~pratul/lighthouse/",
+                "homepage": null,
+                "id": 260846110,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2020-05-03T07:00:35Z",
+                "open_issues": 3,
+                "owner": "pratulsrinivasan",
+                "repo": "lighthouse",
+                "stars": 85,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:22:34.818Z"
+            },
+            {
+              "node_type": "item",
+              "title": "tflsguoyu/materialgan",
+              "description": "SIGGRAPH ASIA MaterialGAN: Reflectance Capture using a Generative SVBRDF Model  ✓ ✓",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 306761730,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-06-21T23:17:57Z",
+                "open_issues": 0,
+                "owner": "tflsguoyu",
+                "repo": "materialgan",
+                "stars": 53,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:22:34.818Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ssangx/NeuralRelighting",
+              "description": "/ Dataset ECCV Single-Shot Neural Relighting and SVBRDF Estimation  ✓ ✓",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://cseweb.ucsd.edu/~viscomp/projects/ECCV20NeuralRelighting/",
+                "id": 279155049,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-04-20T03:02:39Z",
+                "open_issues": 8,
+                "owner": "ssangx",
+                "repo": "NeuralRelighting",
+                "stars": 65,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:22:34.818Z"
+            },
+            {
+              "node_type": "item",
+              "title": "henzler/neuralmaterial",
+              "description": "SIGGRAPH ASIA Generative Modelling of BRDF Textures from Flash Images  ✓ ✓",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Generative Modelling of BRDF Textures from Flash Images [SIGGRAPH Asia, 2021]",
+                "homepage": null,
+                "id": 399791180,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2021-11-23T10:54:13Z",
+                "open_issues": 4,
+                "owner": "henzler",
+                "repo": "neuralmaterial",
+                "stars": 112,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:22:34.818Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Kai-46/PhySG",
+              "description": "CVPR PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Material Editing and Relighting ✓ ✓ ✓",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Relighting and Material Editing",
+                "homepage": null,
+                "id": 378691318,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2022-08-12T18:13:07Z",
+                "open_issues": 9,
+                "owner": "Kai-46",
+                "repo": "PhySG",
+                "stars": 237,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:22:34.818Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Code & Dataset",
+              "description": "CVPR Shape and Material Capture at Home  ✓ ✓",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 353760567,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2021-07-06T19:31:39Z",
+                "open_issues": 2,
+                "owner": "dlichy",
+                "repo": "ShapeAndMaterial",
+                "stars": 106,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:22:34.818Z"
+            },
+            {
+              "node_type": "item",
+              "title": "perceivelab/surfacenet",
+              "description": "ICCV SurfaceNet: Adversarial SVBRDF Estimation from a Single Image  ✓ ✓",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official PyTorch implementation for paper \"SurfaceNet: Adversarial SVBRDF Estimation from a Single Image\"",
+                "homepage": "https://perceivelab.github.io/surfacenet/",
+                "id": 388770310,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-11-03T09:11:29Z",
+                "open_issues": 5,
+                "owner": "perceivelab",
+                "repo": "surfacenet",
+                "stars": 46,
+                "topics": [
+                  "deep-learning",
+                  "gan",
+                  "generative-adversarial-network",
+                  "materials",
+                  "svbrdf",
+                  "textures"
+                ]
+              },
+              "first_seen": "2026-08-28T04:22:34.818Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ViLab-UCSD/IRISformer",
+              "description": "CVPR IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes ✓ ✓ ✓",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 504285973,
+                "language": null,
+                "license": null,
+                "last_commit": "2022-06-16T19:45:53Z",
+                "open_issues": 1,
+                "owner": "ViLab-UCSD",
+                "repo": "IRISformer",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:22:34.818Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image-based estimation and material capture"
         },
         {
-          "node_type": "item",
-          "title": "Code & Dataset",
-          "description": "3DV Learning to Estimate Indoor Lighting from 3D Objects ✓",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Learning to Estimate Indoor Lighting from 3D Objects. 3DV 2018",
-            "homepage": null,
-            "id": 146913221,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2024-02-19T16:17:28Z",
-            "open_issues": 0,
-            "owner": "weberhen",
-            "repo": "learning_indoor_lighting",
-            "stars": 48,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:22:34.818Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cgtuebingen/NeRD-Neural-Reflectance-Decomposition",
+              "description": "ICCV NeRD: Neural Reflectance Decomposition From Image Collections Multi-view capture under varying unknown lighting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NeRD: Neural Reflectance Decomposition from Image Collections - ICCV 2021",
+                "homepage": "https://markboss.me/publication/2021-nerd/",
+                "id": 319388912,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-04-08T17:37:44Z",
+                "open_issues": 6,
+                "owner": "cgtuebingen",
+                "repo": "NeRD-Neural-Reflectance-Decomposition",
+                "stars": 257,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "google/nerfactor",
+              "description": "SIGGRAPH Asia / TOG NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination Geometry, BRDF and unknown environment lighting",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Neural Factorization of Shape and Reflectance Under an Unknown Illumination",
+                "homepage": "https://xiuming.info/projects/nerfactor/",
+                "id": 336034419,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2023-04-30T01:12:03Z",
+                "open_issues": 6,
+                "owner": "google",
+                "repo": "nerfactor",
+                "stars": 451,
+                "topics": [
+                  "illumination",
+                  "nerf",
+                  "neural-rendering",
+                  "reflectance",
+                  "relighting",
+                  "shape",
+                  "view-synthesis"
+                ]
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "NVlabs/nvdiffrec",
+              "description": "CVPR Extracting Triangular 3D Models, Materials, and Lighting From Images nvdiffrec; mesh, material and environment optimization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official code for the CVPR 2022 (oral) paper \"Extracting Triangular 3D Models, Materials, and Lighting From Images\".",
+                "homepage": null,
+                "id": 431420791,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-12T06:42:47Z",
+                "open_issues": 72,
+                "owner": "NVlabs",
+                "repo": "nvdiffrec",
+                "stars": 2298,
+                "topics": [
+                  "deep-learning",
+                  "pytorch"
+                ]
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "apple-aiml-research/ml-neilf",
+              "description": "ECCV NeILF: Neural Incident Light Field for Physically-Based Material Estimation Known geometry; neural incident light and material fields",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 516052987,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-11T16:03:21Z",
+                "open_issues": 0,
+                "owner": "apple-aiml-research",
+                "repo": "ml-neilf",
+                "stars": 133,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "snap-research/NeROIC",
+              "description": "SIGGRAPH / TOG NeROIC: Neural Rendering of Objects from Online Image Collections Online image collections; geometry, appearance and lighting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 445657089,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2023-01-19T22:21:36Z",
+                "open_issues": 14,
+                "owner": "snap-research",
+                "repo": "NeROIC",
+                "stars": 1012,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "NVlabs/nvdiffrecmc",
+              "description": "NeurIPS Shape, Light, and Material Decomposition from Images using Monte Carlo Rendering and Denoising nvdiffrecmc; differentiable path tracing and denoising",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official code for the NeurIPS 2022 paper \"Shape, Light, and Material Decomposition from Images using Monte Carlo Rendering and Denoising\".",
+                "homepage": null,
+                "id": 539348464,
+                "language": "C",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-12T07:36:43Z",
+                "open_issues": 16,
+                "owner": "NVlabs",
+                "repo": "nvdiffrecmc",
+                "stars": 410,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "lwwu2/fipt",
+              "description": "ICCV Factorized Inverse Path Tracing for Efficient and Accurate Material-Lighting Estimation Known geometry; material and lighting via factored transport",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FIPT: Factorized Inverse Path Tracing",
+                "homepage": null,
+                "id": 611605511,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-01-11T00:30:32Z",
+                "open_issues": 5,
+                "owner": "lwwu2",
+                "repo": "fipt",
+                "stars": 62,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "apple-aiml-research/ml-neilfpp",
+              "description": "ICCV NeILF++: Inter-Reflectable Light Fields for Geometry and Material Estimation Joint geometry, material and inter-reflectable light fields",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 675720932,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-11T16:03:23Z",
+                "open_issues": 0,
+                "owner": "apple-aiml-research",
+                "repo": "ml-neilfpp",
+                "stars": 108,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "iamNCJ/NRHints",
+              "description": "SIGGRAPH Relighting Neural Radiance Fields with Shadow and Highlight Hints Moving-light capture; shadows and highlights constrain reflectance",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Code Release for [SIGGRAPH 2023] Relighting Neural Radiance Fields with Shadow and Highlight Hints",
+                "homepage": "https://nrhints.github.io",
+                "id": 658630068,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-05-08T19:56:05Z",
+                "open_issues": 4,
+                "owner": "iamNCJ",
+                "repo": "NRHints",
+                "stars": 181,
+                "topics": [
+                  "nerf",
+                  "neural-rendering",
+                  "neural-representation",
+                  "relighting",
+                  "siggraph"
+                ]
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "za-cheng/WildLight",
+              "description": "CVPR WildLight: In-the-Wild Inverse Rendering With a Flashlight Smartphone flashlight capture; neural shape and reflectance",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "official implementation of our CVPR 2023 paper \"In-the-wild Inverse Rendering with a Flashlight\" ",
+                "homepage": null,
+                "id": 617274171,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-08-30T03:45:38Z",
+                "open_issues": 0,
+                "owner": "za-cheng",
+                "repo": "WildLight",
+                "stars": 80,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "denghilbert/3DV2024-Physics-based-Indirect-Illumination-for-Inverse-Rendering",
+              "description": "3DV Physics-based Indirect Illumination for Inverse Rendering Multi-view geometry, materials and indirect lighting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://denghilbert.github.io/dip/",
+                "id": 575830975,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2023-12-21T03:04:33Z",
+                "open_issues": 0,
+                "owner": "denghilbert",
+                "repo": "3DV2024-Physics-based-Indirect-Illumination-for-Inverse-Rendering",
+                "stars": 28,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "freemantom/UniVoxel",
+              "description": "ECCV UniVoxel: Fast Inverse Rendering by Unified Voxelization of Scene Representation Voxel geometry/material and neural illumination",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "UniVoxel: Fast Inverse Rendering by Unified Voxelization of Scene Representation, ECCV 2024",
+                "homepage": null,
+                "id": 827262741,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2024-07-11T10:00:31Z",
+                "open_issues": 0,
+                "owner": "freemantom",
+                "repo": "UniVoxel",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "s3anwu/pbrnerf",
+              "description": "CVPR PBR-NeRF: Inverse Rendering with Physics-Based Neural Fields Joint geometry, materials and lighting; physical priors",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "We tackle the ill-posed inverse rendering problem with a NeRF model based on physical priors which jointly estimates scene materials, illumination, and geometry.",
+                "homepage": null,
+                "id": 902312998,
+                "language": "Python",
+                "license": "CC-BY-4.0",
+                "last_commit": "2024-12-16T02:12:56Z",
+                "open_issues": 1,
+                "owner": "s3anwu",
+                "repo": "pbrnerf",
+                "stars": 39,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Neural fields, multi-view reconstruction and reflectance"
         },
         {
-          "node_type": "item",
-          "title": "lzqsd/SingleImageShapeAndSVBRDF",
-          "description": "/ Dataset SIGGRAPH ASIA Learning to Reconstruct Shape and Spatially-Varying Reflectance from a Single Image  ✓ ✓",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 196642596,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2020-08-14T23:56:30Z",
-            "open_issues": 3,
-            "owner": "lzqsd",
-            "repo": "SingleImageShapeAndSVBRDF",
-            "stars": 81,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:22:34.818Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zheng95z/rgbx",
+              "description": "SIGGRAPH RGB↔X: Image Decomposition and Synthesis Using Material- and Lighting-aware Diffusion Models Image-space intrinsic channels and conditional synthesis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 864289626,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-01-24T17:02:48Z",
+                "open_issues": 9,
+                "owner": "zheng95z",
+                "repo": "rgbx",
+                "stars": 523,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "nv-tlabs/diffusion-renderer",
+              "description": "CVPR DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models Video diffusion for inverse and forward rendering",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR'25 Oral] Official implementation for \"DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models\"",
+                "homepage": "https://research.nvidia.com/labs/toronto-ai/DiffusionRenderer/",
+                "id": 999109080,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2025-06-13T03:02:58Z",
+                "open_issues": 5,
+                "owner": "nv-tlabs",
+                "repo": "diffusion-renderer",
+                "stars": 429,
+                "topics": [
+                  "cvpr",
+                  "delighting",
+                  "genai",
+                  "relighting"
+                ]
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OnlyZZZZ/DNF-Intrinsic",
+              "description": "ICCV DNF-Intrinsic: Deterministic Noise-Free Diffusion for Indoor Inverse Rendering Deterministic diffusion/flow intrinsic prediction",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1010107994,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-07-09T04:53:16Z",
+                "open_issues": 2,
+                "owner": "OnlyZZZZ",
+                "repo": "DNF-Intrinsic",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image and video decomposition, diffusion and material priors"
         },
         {
-          "node_type": "item",
-          "title": "pratulsrinivasan/lighthouse",
-          "description": "/ Dataset CVPR Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination ✓",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "code release for CVPR 2020 Paper Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination https://people.eecs.berkeley.edu/~pratul/lighthouse/",
-            "homepage": null,
-            "id": 260846110,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2020-05-03T07:00:35Z",
-            "open_issues": 3,
-            "owner": "pratulsrinivasan",
-            "repo": "lighthouse",
-            "stars": 85,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:22:34.818Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PKU-VCL-Geometry/GeoSplatting",
+              "description": "ICCV GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering Neural material representation and mesh-guided Gaussians",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Implementation of the ICCV 2025 Paper \"GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering\"",
+                "homepage": "https://pku-vcl-geometry.github.io/GeoSplatting/",
+                "id": 881725674,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-11-11T17:44:39Z",
+                "open_issues": 1,
+                "owner": "PKU-VCL-Geometry",
+                "repo": "GeoSplatting",
+                "stars": 77,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "3d-reconstruction",
+                  "inverse-rendering"
+                ]
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "joaxkal/lumigauss",
+              "description": "WACV LumiGauss: Relightable Gaussian Splatting in the Wild Explicit Gaussians with MLP-predicted SH lighting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[WACV2025] Official repository for \"LumiGauss: Relightable Gaussian Splatting in the Wild\"",
+                "homepage": null,
+                "id": 839062065,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-05-21T20:58:24Z",
+                "open_issues": 1,
+                "owner": "joaxkal",
+                "repo": "lumigauss",
+                "stars": 98,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "joaxkal/LumiMotion",
+              "description": "CVPR LumiMotion: Improving Gaussian Relighting with Scene Dynamics Dynamic Gaussians with learned deformation; material/light separation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "LumiMotion: Improving Gaussian Relighting with Scene Dynamics [CVPR2026 Highlight]",
+                "homepage": null,
+                "id": 1173798865,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-04-14T10:08:51Z",
+                "open_issues": 1,
+                "owner": "joaxkal",
+                "repo": "LumiMotion",
+                "stars": 17,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "cgtuebingen/MatSpray",
+              "description": "CVPR MatSpray: Fusing 2D Material World Knowledge on 3D Geometry Diffusion material maps fused on Gaussians by a neural merger",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fusing 2D Material World Knowledge on 3D Geometry",
+                "homepage": "https://matspray.jdihlmann.com/",
+                "id": 1118878894,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-03-23T14:24:40Z",
+                "open_issues": 2,
+                "owner": "cgtuebingen",
+                "repo": "MatSpray",
+                "stars": 58,
+                "topics": [
+                  "gaussian-splatting",
+                  "gbuffer",
+                  "relighting",
+                  "rendering"
+                ]
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GrumpySloths/SGS_Intrinsic.github.io",
+              "description": "CVPR SGS-Intrinsic: Semantic-Invariant Gaussian Splatting for Sparse-View Indoor Inverse Rendering Sparse-view indoor decomposition with semantic priors",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Code Implementation of \"SGS-Intrinsic: Semantic-Invariant Gaussian Splatting for Sparse-View Indoor Inverse Rendering\" (CVPR 2026)",
+                "homepage": null,
+                "id": 1186733883,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-04-09T06:32:15Z",
+                "open_issues": 3,
+                "owner": "GrumpySloths",
+                "repo": "SGS_Intrinsic.github.io",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Gaussian methods with neural components"
         },
         {
-          "node_type": "item",
-          "title": "lzqsd/InverseRenderingOfIndoorScene",
-          "description": "/ Dataset CVPR Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image ✓ ✓ ✓",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 272766490,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2023-04-09T00:09:09Z",
-            "open_issues": 11,
-            "owner": "lzqsd",
-            "repo": "InverseRenderingOfIndoorScene",
-            "stars": 319,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:22:34.818Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ssangx/NeuralRelighting",
-          "description": "/ Dataset ECCV Single-Shot Neural Relighting and SVBRDF Estimation  ✓ ✓",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "https://cseweb.ucsd.edu/~viscomp/projects/ECCV20NeuralRelighting/",
-            "id": 279155049,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-04-20T03:02:39Z",
-            "open_issues": 8,
-            "owner": "ssangx",
-            "repo": "NeuralRelighting",
-            "stars": 65,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:22:34.818Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tflsguoyu/materialgan",
-          "description": "SIGGRAPH ASIA MaterialGAN: Reflectance Capture using a Generative SVBRDF Model  ✓ ✓",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 306761730,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-06-21T23:17:57Z",
-            "open_issues": 0,
-            "owner": "tflsguoyu",
-            "repo": "materialgan",
-            "stars": 53,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:22:34.818Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Kai-46/PhySG",
-          "description": "CVPR PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Material Editing and Relighting ✓ ✓ ✓",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code for PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Relighting and Material Editing",
-            "homepage": null,
-            "id": 378691318,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2022-08-12T18:13:07Z",
-            "open_issues": 9,
-            "owner": "Kai-46",
-            "repo": "PhySG",
-            "stars": 238,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:22:34.818Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Code & Dataset",
-          "description": "CVPR Shape and Material Capture at Home  ✓ ✓",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 353760567,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2021-07-06T19:31:39Z",
-            "open_issues": 2,
-            "owner": "dlichy",
-            "repo": "ShapeAndMaterial",
-            "stars": 106,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:22:34.818Z"
-        },
-        {
-          "node_type": "item",
-          "title": "perceivelab/surfacenet",
-          "description": "ICCV SurfaceNet: Adversarial SVBRDF Estimation from a Single Image  ✓ ✓",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The official PyTorch implementation for paper \"SurfaceNet: Adversarial SVBRDF Estimation from a Single Image\"",
-            "homepage": "https://perceivelab.github.io/surfacenet/",
-            "id": 388770310,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2023-11-03T09:11:29Z",
-            "open_issues": 5,
-            "owner": "perceivelab",
-            "repo": "surfacenet",
-            "stars": 46,
-            "topics": [
-              "deep-learning",
-              "gan",
-              "generative-adversarial-network",
-              "materials",
-              "svbrdf",
-              "textures"
-            ]
-          },
-          "first_seen": "2026-08-28T04:22:34.818Z"
-        },
-        {
-          "node_type": "item",
-          "title": "henzler/neuralmaterial",
-          "description": "SIGGRAPH ASIA Generative Modelling of BRDF Textures from Flash Images  ✓ ✓",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Generative Modelling of BRDF Textures from Flash Images [SIGGRAPH Asia, 2021]",
-            "homepage": null,
-            "id": 399791180,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2021-11-23T10:54:13Z",
-            "open_issues": 4,
-            "owner": "henzler",
-            "repo": "neuralmaterial",
-            "stars": 112,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:22:34.818Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ViLab-UCSD/IRISformer",
-          "description": "CVPR IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes ✓ ✓ ✓",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 504285973,
-            "language": null,
-            "license": null,
-            "last_commit": "2022-06-16T19:45:53Z",
-            "open_issues": 1,
-            "owner": "ViLab-UCSD",
-            "repo": "IRISformer",
-            "stars": 16,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:22:34.818Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JADGardner/neusky",
+              "description": "ECCV The Sky's the Limit: Relightable Outdoor Scenes via a Sky-pixel Constrained Illumination Prior and Outside-In Visibility Outdoor relighting; sky-constrained illumination and visibility",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The Sky's the Limit: Relightable Outdoor Scenes via a Sky-pixel Constrained Illumination Prior and Outside-In Visibility",
+                "homepage": "https://doi.org/10.1007/978-3-031-72949-2_8",
+                "id": 633812843,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-27T18:18:13Z",
+                "open_issues": 2,
+                "owner": "JADGardner",
+                "repo": "neusky",
+                "stars": 22,
+                "topics": [
+                  "illumination",
+                  "inverse-rendering",
+                  "nerf",
+                  "neus",
+                  "outdoor",
+                  "relighting",
+                  "reni"
+                ]
+              },
+              "first_seen": "2026-10-10T23:34:24.323Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scene and video relighting"
         }
       ],
       "title": "Inverse Rendering (DL)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zhhoper/DPR",
+          "description": "/ Data preparation ICCV Deep Single-Image Portrait Relighting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code for Deep Single-image Portrait Image Relighting",
+            "homepage": "https://zhhoper.github.io/dpr.html",
+            "id": 201683686,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2022-12-22T10:27:14Z",
+            "open_issues": 16,
+            "owner": "zhhoper",
+            "repo": "DPR",
+            "stars": 581,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T23:34:24.323Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling",
+          "description": "/ Dataset ICCV Neural Video Portrait Relighting in Real-time via Consistency Modeling",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Neural Video Portrait Relighting in Real-time via Consistency Modeling",
+            "homepage": null,
+            "id": 353778486,
+            "language": null,
+            "license": null,
+            "last_commit": "2021-04-06T11:21:20Z",
+            "open_issues": 4,
+            "owner": "ZoneLikeWonderland",
+            "repo": "Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling",
+            "stars": 35,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T23:34:24.323Z"
+        },
+        {
+          "node_type": "item",
+          "title": "IGLICT/GSHeadRelight",
+          "description": "SIGGRAPH GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official pytorch implementation for \"GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis\".",
+            "homepage": "http://www.geometrylearning.com/GSHeadRelight/",
+            "id": 1037838179,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-03-24T07:14:07Z",
+            "open_issues": 2,
+            "owner": "IGLICT",
+            "repo": "GSHeadRelight",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T23:34:24.323Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MingtaoGuo/Relightable-Portrait-Animation",
+          "description": "CVPR High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[CVPR 2025] High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model",
+            "homepage": null,
+            "id": 940556063,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-06-04T03:18:59Z",
+            "open_issues": 2,
+            "owner": "MingtaoGuo",
+            "repo": "Relightable-Portrait-Animation",
+            "stars": 62,
+            "topics": [
+              "portrait-animation",
+              "relighting",
+              "video-diffusion-model"
+            ]
+          },
+          "first_seen": "2026-10-10T23:34:24.323Z"
+        },
+        {
+          "node_type": "item",
+          "title": "lllyasviel/IC-Light",
+          "description": "ICLR Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "More relighting!",
+            "homepage": null,
+            "id": 797246647,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-02-20T15:52:35Z",
+            "open_issues": 112,
+            "owner": "lllyasviel",
+            "repo": "IC-Light",
+            "stars": 8542,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T23:34:24.323Z"
+        }
+      ],
+      "title": "Portrait Relighting (DL)"
     },
     {
       "description": null,
@@ -516,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T00:02:57.352Z",
+    "last_updated": "2026-10-10T23:34:24.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
@@ -524,7 +1464,7 @@
       "id": 317085344,
       "language": null,
       "license": null,
-      "last_commit": "2025-04-11T07:16:16Z",
+      "last_commit": "2026-10-10T23:05:45Z",
       "open_issues": 0,
       "owner": "tkuri",
       "repo": "Awesome-InverseRendering",
@@ -539,9 +1479,9 @@
         "papers"
       ]
     },
-    "original_repository_sha": "56c2ba5742949c96e8e8f7a2d60d1297442eb780",
+    "original_repository_sha": "8b8e8b753f304bca06ca78137b3ad93d896841e4",
     "enhanced_repository": "enhansome/enhansome-Awesome-InverseRendering",
     "enhanced_repository_description": null,
-    "title": "Awesome InverseRendering with stars"
+    "title": "Awesome Intrinsic Decomposition, Inverse Rendering & Portrait Relighting with stars"
   }
 }
