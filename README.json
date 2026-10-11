@@ -1074,7 +1074,7 @@
                 "open_issues": 9,
                 "owner": "zheng95z",
                 "repo": "rgbx",
-                "stars": 523,
+                "stars": 524,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T23:34:24.323Z",
+    "last_updated": "2026-10-11T23:40:17.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
