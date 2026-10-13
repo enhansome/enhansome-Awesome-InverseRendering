@@ -356,7 +356,7 @@
             "open_issues": 8,
             "owner": "Lizb6626",
             "repo": "IDArb",
-            "stars": 105,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -679,7 +679,7 @@
                 "open_issues": 9,
                 "owner": "Kai-46",
                 "repo": "PhySG",
-                "stars": 237,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:34.818Z"
@@ -827,7 +827,7 @@
                 "open_issues": 72,
                 "owner": "NVlabs",
                 "repo": "nvdiffrec",
-                "stars": 2298,
+                "stars": 2299,
                 "topics": [
                   "deep-learning",
                   "pytorch"
@@ -1095,7 +1095,7 @@
                 "open_issues": 5,
                 "owner": "nv-tlabs",
                 "repo": "diffusion-renderer",
-                "stars": 429,
+                "stars": 430,
                 "topics": [
                   "cvpr",
                   "delighting",
@@ -1398,7 +1398,7 @@
             "open_issues": 112,
             "owner": "lllyasviel",
             "repo": "IC-Light",
-            "stars": 8542,
+            "stars": 8544,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T23:40:17.382Z",
+    "last_updated": "2026-10-13T02:01:19.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
