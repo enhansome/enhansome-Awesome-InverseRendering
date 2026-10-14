@@ -1095,7 +1095,7 @@
                 "open_issues": 5,
                 "owner": "nv-tlabs",
                 "repo": "diffusion-renderer",
-                "stars": 430,
+                "stars": 431,
                 "topics": [
                   "cvpr",
                   "delighting",
@@ -1242,7 +1242,7 @@
                 "open_issues": 3,
                 "owner": "GrumpySloths",
                 "repo": "SGS_Intrinsic.github.io",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1373,7 +1373,7 @@
             "open_issues": 2,
             "owner": "MingtaoGuo",
             "repo": "Relightable-Portrait-Animation",
-            "stars": 62,
+            "stars": 61,
             "topics": [
               "portrait-animation",
               "relighting",
@@ -1398,7 +1398,7 @@
             "open_issues": 112,
             "owner": "lllyasviel",
             "repo": "IC-Light",
-            "stars": 8546,
+            "stars": 8545,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:43:49.152Z",
+    "last_updated": "2026-10-14T23:15:05.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
