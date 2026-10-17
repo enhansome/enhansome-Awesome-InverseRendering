@@ -403,7 +403,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-08-25T19:17:29Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "NK-CS-ZZL",
                 "repo": "DiscretizedSDF",
                 "stars": 110,
@@ -1395,7 +1395,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-02-20T15:52:35Z",
-            "open_issues": 112,
+            "open_issues": 113,
             "owner": "lllyasviel",
             "repo": "IC-Light",
             "stars": 8546,
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:51:47.897Z",
+    "last_updated": "2026-10-17T22:20:12.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
