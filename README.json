@@ -385,7 +385,7 @@
                 "open_issues": 23,
                 "owner": "lzhnb",
                 "repo": "GS-IR",
-                "stars": 453,
+                "stars": 454,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -935,7 +935,7 @@
                 "open_issues": 0,
                 "owner": "apple-aiml-research",
                 "repo": "ml-neilfpp",
-                "stars": 108,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1046,7 +1046,7 @@
                 "open_issues": 1,
                 "owner": "s3anwu",
                 "repo": "pbrnerf",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1095,7 +1095,7 @@
                 "open_issues": 5,
                 "owner": "nv-tlabs",
                 "repo": "diffusion-renderer",
-                "stars": 431,
+                "stars": 432,
                 "topics": [
                   "cvpr",
                   "delighting",
@@ -1195,7 +1195,7 @@
                 "open_issues": 1,
                 "owner": "joaxkal",
                 "repo": "LumiMotion",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1242,7 +1242,7 @@
                 "open_issues": 3,
                 "owner": "GrumpySloths",
                 "repo": "SGS_Intrinsic.github.io",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1398,7 +1398,7 @@
             "open_issues": 113,
             "owner": "lllyasviel",
             "repo": "IC-Light",
-            "stars": 8547,
+            "stars": 8549,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:26:09.923Z",
+    "last_updated": "2026-10-19T23:43:32.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
