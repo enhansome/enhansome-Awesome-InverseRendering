@@ -851,7 +851,7 @@
                 "open_issues": 0,
                 "owner": "apple-aiml-research",
                 "repo": "ml-neilf",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -893,7 +893,7 @@
                 "open_issues": 16,
                 "owner": "NVlabs",
                 "repo": "nvdiffrecmc",
-                "stars": 410,
+                "stars": 411,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1095,7 +1095,7 @@
                 "open_issues": 5,
                 "owner": "nv-tlabs",
                 "repo": "diffusion-renderer",
-                "stars": 433,
+                "stars": 434,
                 "topics": [
                   "cvpr",
                   "delighting",
@@ -1398,7 +1398,7 @@
             "open_issues": 113,
             "owner": "lllyasviel",
             "repo": "IC-Light",
-            "stars": 8550,
+            "stars": 8551,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:11:05.253Z",
+    "last_updated": "2026-10-21T23:20:38.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
