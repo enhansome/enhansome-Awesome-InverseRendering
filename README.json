@@ -413,19 +413,19 @@
             },
             {
               "node_type": "item",
-              "title": "fudan-zvg/IRGS",
+              "title": "LogosIntelligenceLab/IRGS",
               "description": "CVPR IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing 2D Gaussian ray tracing; inter-reflections",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "description": "[CVPR 2025] IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing",
-                "homepage": "https://fudan-zvg.github.io/IRGS/",
+                "homepage": "https://logosintelligencelab.github.io/IRGS/",
                 "id": 906163508,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2025-07-15T05:03:39Z",
+                "last_commit": "2026-10-24T14:38:49Z",
                 "open_issues": 6,
-                "owner": "fudan-zvg",
+                "owner": "LogosIntelligenceLab",
                 "repo": "IRGS",
                 "stars": 172,
                 "topics": [
@@ -1074,7 +1074,7 @@
                 "open_issues": 9,
                 "owner": "zheng95z",
                 "repo": "rgbx",
-                "stars": 525,
+                "stars": 526,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1398,7 +1398,7 @@
             "open_issues": 113,
             "owner": "lllyasviel",
             "repo": "IC-Light",
-            "stars": 8556,
+            "stars": 8557,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:09:49.679Z",
+    "last_updated": "2026-10-24T22:28:58.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
