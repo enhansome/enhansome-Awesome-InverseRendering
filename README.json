@@ -277,7 +277,7 @@
             "open_issues": 0,
             "owner": "compphoto",
             "repo": "Intrinsic",
-            "stars": 388,
+            "stars": 389,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -306,7 +306,7 @@
             "open_issues": 0,
             "owner": "compphoto",
             "repo": "Intrinsic",
-            "stars": 388,
+            "stars": 389,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -385,7 +385,7 @@
                 "open_issues": 23,
                 "owner": "lzhnb",
                 "repo": "GS-IR",
-                "stars": 455,
+                "stars": 456,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -872,7 +872,7 @@
                 "open_issues": 14,
                 "owner": "snap-research",
                 "repo": "NeROIC",
-                "stars": 1013,
+                "stars": 1012,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1074,7 +1074,7 @@
                 "open_issues": 9,
                 "owner": "zheng95z",
                 "repo": "rgbx",
-                "stars": 528,
+                "stars": 529,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1398,7 +1398,7 @@
             "open_issues": 113,
             "owner": "lllyasviel",
             "repo": "IC-Light",
-            "stars": 8565,
+            "stars": 8567,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T23:47:12.988Z",
+    "last_updated": "2026-10-29T00:00:15.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
