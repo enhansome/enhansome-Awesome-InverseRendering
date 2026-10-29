@@ -872,7 +872,7 @@
                 "open_issues": 14,
                 "owner": "snap-research",
                 "repo": "NeROIC",
-                "stars": 1012,
+                "stars": 1011,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1192,7 +1192,7 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2026-04-14T10:08:51Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "joaxkal",
                 "repo": "LumiMotion",
                 "stars": 18,
@@ -1398,7 +1398,7 @@
             "open_issues": 113,
             "owner": "lllyasviel",
             "repo": "IC-Light",
-            "stars": 8567,
+            "stars": 8569,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T00:00:15.362Z",
+    "last_updated": "2026-10-29T23:57:12.562Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
