@@ -277,7 +277,7 @@
             "open_issues": 0,
             "owner": "compphoto",
             "repo": "Intrinsic",
-            "stars": 389,
+            "stars": 388,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -306,7 +306,7 @@
             "open_issues": 0,
             "owner": "compphoto",
             "repo": "Intrinsic",
-            "stars": 389,
+            "stars": 388,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -385,7 +385,7 @@
                 "open_issues": 23,
                 "owner": "lzhnb",
                 "repo": "GS-IR",
-                "stars": 456,
+                "stars": 457,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -427,7 +427,7 @@
                 "open_issues": 6,
                 "owner": "LogosIntelligenceLab",
                 "repo": "IRGS",
-                "stars": 172,
+                "stars": 171,
                 "topics": [
                   "gaussian-raytracing",
                   "gaussian-splatting",
@@ -1398,7 +1398,7 @@
             "open_issues": 113,
             "owner": "lllyasviel",
             "repo": "IC-Light",
-            "stars": 8569,
+            "stars": 8570,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:57:12.562Z",
+    "last_updated": "2026-10-30T23:47:57.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
