@@ -208,7 +208,7 @@
             "open_issues": 10,
             "owner": "DreamtaleCore",
             "repo": "USI3D",
-            "stars": 100,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -250,7 +250,7 @@
             "open_issues": 4,
             "owner": "Morpheus3000",
             "repo": "PIE-Net",
-            "stars": 51,
+            "stars": 52,
             "topics": [
               "computer-vision",
               "cvpr2022",
@@ -827,7 +827,7 @@
                 "open_issues": 72,
                 "owner": "NVlabs",
                 "repo": "nvdiffrec",
-                "stars": 2301,
+                "stars": 2302,
                 "topics": [
                   "deep-learning",
                   "pytorch"
@@ -1174,7 +1174,7 @@
                 "open_issues": 2,
                 "owner": "joaxkal",
                 "repo": "lumigauss",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1186,7 +1186,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "LumiMotion: Improving Gaussian Relighting with Scene Dynamics [CVPR2026 Highlight]",
+                "description": "[CVPR2026 Highlight] LumiMotion: Improving Gaussian Relighting with Scene Dynamics",
                 "homepage": null,
                 "id": 1173798865,
                 "language": "HTML",
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T00:36:46.938Z",
+    "last_updated": "2026-11-05T00:54:05.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
