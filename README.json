@@ -205,7 +205,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2021-10-12T23:02:38Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "DreamtaleCore",
             "repo": "USI3D",
             "stars": 101,
@@ -277,7 +277,7 @@
             "open_issues": 0,
             "owner": "compphoto",
             "repo": "Intrinsic",
-            "stars": 388,
+            "stars": 389,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -306,7 +306,7 @@
             "open_issues": 0,
             "owner": "compphoto",
             "repo": "Intrinsic",
-            "stars": 388,
+            "stars": 389,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -356,7 +356,7 @@
             "open_issues": 8,
             "owner": "Lizb6626",
             "repo": "IDArb",
-            "stars": 107,
+            "stars": 108,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -827,7 +827,7 @@
                 "open_issues": 72,
                 "owner": "NVlabs",
                 "repo": "nvdiffrec",
-                "stars": 2302,
+                "stars": 2301,
                 "topics": [
                   "deep-learning",
                   "pytorch"
@@ -1095,7 +1095,7 @@
                 "open_issues": 5,
                 "owner": "nv-tlabs",
                 "repo": "diffusion-renderer",
-                "stars": 436,
+                "stars": 437,
                 "topics": [
                   "cvpr",
                   "delighting",
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:06:49.333Z",
+    "last_updated": "2026-11-07T23:38:20.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
