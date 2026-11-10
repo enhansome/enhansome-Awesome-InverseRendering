@@ -205,7 +205,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2021-10-12T23:02:38Z",
-            "open_issues": 11,
+            "open_issues": 10,
             "owner": "DreamtaleCore",
             "repo": "USI3D",
             "stars": 101,
@@ -406,7 +406,7 @@
                 "open_issues": 1,
                 "owner": "NK-CS-ZZL",
                 "repo": "DiscretizedSDF",
-                "stars": 111,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1074,7 +1074,7 @@
                 "open_issues": 9,
                 "owner": "zheng95z",
                 "repo": "rgbx",
-                "stars": 529,
+                "stars": 530,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1171,7 +1171,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-22T12:16:26Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "joaxkal",
                 "repo": "lumigauss",
                 "stars": 100,
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T23:43:37.627Z",
+    "last_updated": "2026-11-10T02:44:57.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
