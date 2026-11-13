@@ -277,7 +277,7 @@
             "open_issues": 0,
             "owner": "compphoto",
             "repo": "Intrinsic",
-            "stars": 390,
+            "stars": 391,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -306,7 +306,7 @@
             "open_issues": 0,
             "owner": "compphoto",
             "repo": "Intrinsic",
-            "stars": 390,
+            "stars": 391,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -658,7 +658,7 @@
                 "open_issues": 4,
                 "owner": "henzler",
                 "repo": "neuralmaterial",
-                "stars": 112,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:22:34.818Z"
@@ -721,7 +721,7 @@
                 "open_issues": 5,
                 "owner": "perceivelab",
                 "repo": "surfacenet",
-                "stars": 46,
+                "stars": 45,
                 "topics": [
                   "deep-learning",
                   "gan",
@@ -827,7 +827,7 @@
                 "open_issues": 72,
                 "owner": "NVlabs",
                 "repo": "nvdiffrec",
-                "stars": 2300,
+                "stars": 2301,
                 "topics": [
                   "deep-learning",
                   "pytorch"
@@ -1352,7 +1352,7 @@
             "open_issues": 2,
             "owner": "IGLICT",
             "repo": "GSHeadRelight",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1398,7 +1398,7 @@
             "open_issues": 113,
             "owner": "lllyasviel",
             "repo": "IC-Light",
-            "stars": 8572,
+            "stars": 8574,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:54:11.860Z",
+    "last_updated": "2026-11-13T01:05:15.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
