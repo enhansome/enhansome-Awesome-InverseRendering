@@ -385,7 +385,7 @@
                 "open_issues": 23,
                 "owner": "lzhnb",
                 "repo": "GS-IR",
-                "stars": 457,
+                "stars": 458,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1216,7 +1216,7 @@
                 "open_issues": 2,
                 "owner": "cgtuebingen",
                 "repo": "MatSpray",
-                "stars": 60,
+                "stars": 61,
                 "topics": [
                   "gaussian-splatting",
                   "gbuffer",
@@ -1398,7 +1398,7 @@
             "open_issues": 113,
             "owner": "lllyasviel",
             "repo": "IC-Light",
-            "stars": 8575,
+            "stars": 8576,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1446,7 +1446,7 @@
             "open_issues": 0,
             "owner": "apple-aiml-research",
             "repo": "ml-hypersim",
-            "stars": 2074,
+            "stars": 2075,
             "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T02:56:13.151Z",
+    "last_updated": "2026-11-18T02:25:52.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
