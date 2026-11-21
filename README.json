@@ -1095,7 +1095,7 @@
                 "open_issues": 5,
                 "owner": "nv-tlabs",
                 "repo": "diffusion-renderer",
-                "stars": 442,
+                "stars": 443,
                 "topics": [
                   "cvpr",
                   "delighting",
@@ -1398,7 +1398,7 @@
             "open_issues": 113,
             "owner": "lllyasviel",
             "repo": "IC-Light",
-            "stars": 8577,
+            "stars": 8580,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:46:12.877Z",
+    "last_updated": "2026-11-21T01:31:35.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
