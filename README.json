@@ -438,31 +438,6 @@
             },
             {
               "node_type": "item",
-              "title": "jingzhi/ReCap",
-              "description": "CVPR ReCap: Better Gaussian Relighting with Cross-Environment Captures Gaussian relighting with cross-environment captures",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The official implementation of ReCap: Better Gaussian Relighting With Cross-Environment Captures",
-                "homepage": "https://jingzhi.github.io/ReCap/",
-                "id": 901262345,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2025-06-15T21:11:55Z",
-                "open_issues": 3,
-                "owner": "jingzhi",
-                "repo": "ReCap",
-                "stars": 22,
-                "topics": [
-                  "3dgs",
-                  "cvpr2025",
-                  "relighting"
-                ]
-              },
-              "first_seen": "2026-10-10T23:34:24.323Z"
-            },
-            {
-              "node_type": "item",
               "title": "learner-shx/SVG-IR",
               "description": "CVPR SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering Spatially varying Gaussian parameters; indirect illumination",
               "children": [],
@@ -1398,7 +1373,7 @@
             "open_issues": 113,
             "owner": "lllyasviel",
             "repo": "IC-Light",
-            "stars": 8584,
+            "stars": 8585,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1446,7 +1421,7 @@
             "open_issues": 0,
             "owner": "apple-aiml-research",
             "repo": "ml-hypersim",
-            "stars": 2078,
+            "stars": 2079,
             "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
@@ -1456,7 +1431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:47:27.133Z",
+    "last_updated": "2026-11-25T03:33:00.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
