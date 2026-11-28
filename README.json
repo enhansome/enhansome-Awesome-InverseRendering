@@ -277,7 +277,7 @@
             "open_issues": 0,
             "owner": "compphoto",
             "repo": "Intrinsic",
-            "stars": 395,
+            "stars": 396,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -306,7 +306,7 @@
             "open_issues": 0,
             "owner": "compphoto",
             "repo": "Intrinsic",
-            "stars": 395,
+            "stars": 396,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -1373,7 +1373,7 @@
             "open_issues": 113,
             "owner": "lllyasviel",
             "repo": "IC-Light",
-            "stars": 8587,
+            "stars": 8590,
             "topics": []
           },
           "first_seen": "2026-10-10T23:34:24.323Z"
@@ -1421,7 +1421,7 @@
             "open_issues": 0,
             "owner": "apple-aiml-research",
             "repo": "ml-hypersim",
-            "stars": 2080,
+            "stars": 2081,
             "topics": []
           },
           "first_seen": "2026-08-28T04:22:34.818Z"
@@ -1431,7 +1431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T02:51:10.350Z",
+    "last_updated": "2026-11-28T02:41:31.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Intrinsic Decomposition & Inverse Rendering",
